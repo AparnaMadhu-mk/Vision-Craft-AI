@@ -1,0 +1,1 @@
+An AI-powered Vision Application that uses Computer Vision and Artificial Intelligence to analyze images and provide smart predictions or insights in real time. This project demonstrates the practical use of AI in image processing, object detection, and intelligent visual recognition.
